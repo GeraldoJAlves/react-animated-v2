@@ -20,4 +20,3 @@ npx pod-install
 
 Then run the app using Xcode or `react-native` CLI.
 
-[Check Reanimated 2 documentation here.](https://docs.swmansion.com/react-native-reanimated/)
